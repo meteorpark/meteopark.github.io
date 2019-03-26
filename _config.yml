@@ -12,12 +12,13 @@ site_title: Tech Blog
 company_name: meteopark
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path:
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
+# page
 disqus_shortname: meteopark
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
@@ -77,6 +78,7 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
+
   -
     scope:
       path: ""
@@ -106,6 +108,7 @@ sidebars:
 - product1_sidebar
 - product2_sidebar
 - other
+- category_sidebar
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
 # the description is used in the feed.xml file

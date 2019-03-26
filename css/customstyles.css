@@ -977,7 +977,9 @@ div.results {
     font-size: 14px;
     color: #828282;
 }
-
+.view-list {
+    color:#F15F5F;
+}
 .post-link {
     font-size: 22px;
 }
