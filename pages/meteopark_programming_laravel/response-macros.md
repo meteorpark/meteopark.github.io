@@ -187,5 +187,8 @@ or
 
 `stdClass` 경우 응답정보를 받는 곳에서 `content-type` 을 `application/json` 으로 인식 하는 것이 아닌 `text/html` 로 인식하게 된다.  
 
+- - -
+- [목록으로 돌아가기](https://github.com/meteopark/laravel-core)
+- [사용자 정의 예외처리 만들기 - Custom Exception](https://github.com/meteopark/laravel-core/blob/master/guide/response-custom-exception.md)
 
 {% include links.html %}

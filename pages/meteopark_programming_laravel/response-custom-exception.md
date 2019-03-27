@@ -168,3 +168,5 @@ Route::get('/', function () {
 - - -
 - [목록으로 돌아가기](https://github.com/meteopark/laravel-core)
 - [사용자 정의 응답정보 만들기 - Response Macro](https://github.com/meteopark/laravel-core/blob/master/guide/response-macros.md)
+
+{% include links.html %}
