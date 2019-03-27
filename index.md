@@ -1,13 +1,24 @@
 ---
-title: "메인은 공사 중 입니다."
-keywords: sample homepage
-tags: [getting_started]
-
+title: Profile - 공사 중
+keywords: meteopark, 박유성기술블로그
+toc: false
+sidebar: category_sidebar
 permalink: index.html
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
 
-메인은 공사 
+
+<p align="center@"><img src="images/profile/itsme.png" style="width:120px; height:120px; object-fit:cover; border-radius: 50%;" /></p>
+<p align="center@"><b>박유성</b></p>
+<p align="center@">rzip84@gmail.com</p>
+<p align="center@">PHP Developer</p>
+
+<a target="_blank" href="https://rzip84.blog.me"><img src="images/icons/blog.jpg" class="mp-icon" />
+<a target="_blank" href="https://rzip84.blog.me"><img src="images/icons/facebook.png" class="mp-icon" />
+
 
 {% include links.html %}
+
+
+
+

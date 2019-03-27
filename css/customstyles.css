@@ -924,16 +924,20 @@ span.soft {
     padding:10px;
 }
 
-/* this part adds an icon after external links, using FontAwesome*/
-a[href^="http://"]:after, a[href^="https://"]:after {
-    content: "\f08e";
-    font-family: FontAwesome;
-    font-weight: normal;
-    font-style: normal;
-    display: inline-block;
-    text-decoration: none;
-    padding-left: 3px;
+.mp-icon {
+    width: 40px;
+    height: 40px;
 }
+/* this part adds an icon after external links, using FontAwesome*/
+/*a[href^="http://"]:after, a[href^="https://"]:after {*/
+    /*content: "\f08e";*/
+    /*font-family: FontAwesome;*/
+    /*font-weight: normal;*/
+    /*font-style: normal;*/
+    /*display: inline-block;*/
+    /*text-decoration: none;*/
+    /*padding-left: 3px;*/
+/*}*/
 
 /* Strip the outbound icon when this class is present */
 a[href].noCrossRef::after,
@@ -981,12 +985,14 @@ div.results {
     color:#F15F5F;
 }
 .post-link {
-    font-size: 22px;
-    color: #000000;
+    font-size: 19px;
+    /*font-weight:bold;*/
+    /*color: #4C4C4C;*/
 }
 
 .post-list p {
     margin: 10px 0px;
+
 }
 
 time {
