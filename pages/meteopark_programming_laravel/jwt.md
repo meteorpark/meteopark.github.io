@@ -1,6 +1,6 @@
 ---
 title:  JWT 1.0.* 사용하기
-permalink: response-custom-exception.html
+permalink: jwt.html
 tags: [laravel, jwt]
 
 date: 2019-03-20 00:00:00
