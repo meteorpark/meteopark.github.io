@@ -267,12 +267,12 @@ Route::middleware(['jwt.auth'])->group(function () {
 ```
 가입 했을때
 
-![success|200x100](images/success.png)
+![success =200x100](images/md-images/success.png)
 
 
 로그인 했을때(사용자 정보 가져 옴)
 
-![login|200x100](images/login.png )  
+![login =200x100](images/md-images/login.png )
 
 
 ### 마치며
