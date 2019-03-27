@@ -51,7 +51,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Laravel
+    - title: Laravel 5
       url: /programming-laravel.html
       output: web, pdf
 
