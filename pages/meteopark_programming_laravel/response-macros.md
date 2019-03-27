@@ -1,5 +1,5 @@
 ---
-title:  Response Macro
+title:  Laravel 5 - Response Macro
 permalink: response-macros.html
 tags: [laravel]
 

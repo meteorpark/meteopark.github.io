@@ -5,8 +5,8 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/meteopark
-#    - title: News
-#      url: /news
+    - title: About
+      url: /news
 #
 ##Topnav dropdowns
 #topnav_dropdowns:

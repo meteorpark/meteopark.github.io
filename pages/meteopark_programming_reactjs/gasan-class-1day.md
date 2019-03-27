@@ -1,5 +1,5 @@
 ---
-title:  교육 1일차 - CDN 페이징 방식 개발
+title: React.js - 교육 1일차 - CDN 페이징 방식 개발
 permalink: gasan-class-1day.html
 tags: [reactjs]
 

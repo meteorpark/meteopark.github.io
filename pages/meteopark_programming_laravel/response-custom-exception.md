@@ -1,5 +1,5 @@
 ---
-title:  Custom Exception
+title:  Laravel 5 - Custom Exception
 permalink: response-custom-exception.html
 tags: [laravel]
 

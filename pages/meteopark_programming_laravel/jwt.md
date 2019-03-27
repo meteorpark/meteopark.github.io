@@ -1,5 +1,5 @@
 ---
-title:  JWT 1.0.* 사용하기
+title: Laravel 5 - JWT 1.0.* 사용하기
 permalink: jwt.html
 tags: [laravel, jwt]
 
