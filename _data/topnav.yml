@@ -6,7 +6,7 @@ topnav:
     - title: GitHub
       external_url: https://github.com/meteopark
     - title: About
-      url: /news
+      url: /index.html
 #
 ##Topnav dropdowns
 #topnav_dropdowns:

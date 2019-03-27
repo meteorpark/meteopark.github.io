@@ -2,9 +2,8 @@
 title:  Laravel 5 - Response Macro
 permalink: response-macros.html
 tags: [laravel]
-
+keywords: response macros
 date: 2019-03-7 00:00:00
-keywords: laravel
 summary: 사용자의 응답정보(response)를 개발자의 스타일에 맞춰 변형시키는 방법으로 앱 개발자들이 API룰 호출하게 되면 그 결과를 응답정보로 보내어 상황에 맞게 결과값을 파싱할 수 있도록 도와주는 코드 입니다.
 box_number: 1
 folder: meteopark_programming_laravel

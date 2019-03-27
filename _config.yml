@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: 박유성 기술블로그
+topnav_title: 박유성 기술 블로그
 # this appears on the top navigation bar next to the home button
 
-site_title: Tech Blog
+site_title: MeteoPark Tech Blog
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: meteopark
@@ -36,7 +36,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Documentation issue
+feedback_subject_line: Document issue
 
 feedback_email: rzip84@naver.com
 # used as a contact email for the Feedback link in the top navigation bar

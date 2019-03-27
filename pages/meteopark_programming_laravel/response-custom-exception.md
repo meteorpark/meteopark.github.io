@@ -2,9 +2,8 @@
 title:  Laravel 5 - Custom Exception
 permalink: response-custom-exception.html
 tags: [laravel]
-
+keywords: custom exception, exception
 date: 2019-03-18 00:00:00
-keywords: laravel
 summary: 요청받은 정보에 이슈가 생겼을 시 예외 발생을 Custom 하게 변경시켜주는 코드입니다.
 box_number: 1
 folder: meteopark_programming_laravel
