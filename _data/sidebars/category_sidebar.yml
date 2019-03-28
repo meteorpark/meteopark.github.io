@@ -51,11 +51,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Laravel 5
+    - title: Laravel
       url: /programming-laravel.html
       output: web, pdf
 
-    - title: React.js
+    - title: React JS
       url: /programming-reactjs.html
       output: web, pdf
 
