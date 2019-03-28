@@ -1,11 +1,10 @@
 ---
 title: React.js - 교육 1일차 - CDN 페이징 방식 개발
-permalink: gasan-class-1day.html
+permalink: 2019-03-27-gasan-class-1day.html
 tags: [reactjs]
 keywords: reactjs
 date: 2019-03-27 00:00:00
 summary: React.js 1일차로 배운 내용을 정리한다.
-box_number: 1
 folder: meteopark_programming_reactjs
 sidebar: category_sidebar
 ---

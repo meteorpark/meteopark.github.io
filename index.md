@@ -1,25 +1,39 @@
 ---
-title: Profile
+title: All Contents
 sidebar: category_sidebar
 permalink: index.html
 keywords: meteopark, 박유성기술블로그, meteopark tech blog
-summary: 박유성 기술 블로그 입니다. 맛집, 여행, 게임을 좋아 합니다.
+summary: All Contents
 toc: false
 ---
 
 
+<div class="home">
+    <p>See more posts from the <a class="view-list" href="archive.html">Archive</a> </p>
+    <div class="post-list">
 
-<p align="center"><img src="images/profile/itsme.png" style="width:120px; height:120px; object-fit:cover; border-radius: 50%;" /></p>
-<p align="center"><b>박유성</b></p>
-<p align="center">rzip84@gmail.com</p>
-<p align="center">PHP Developer</p>
+        {% for page in site.pages reversed %}
+        {% if page.tags %}
 
-<p align="center">
-<a target="_blank" href="https://github.com/meteopark"><img src="images/icons/github.png" style="width:35px;height:35px" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/meteopark"><img src="images/icons/linkedin.png" style="width:35px;height:35px" /></a>
-<a target="_blank" href="https://www.facebook.com/rzip84"><img src="images/icons/facebook.png" style="width:35px;height:35px" /></a>
-<a target="_blank" href="https://rzip84.blog.me"><img src="images/icons/blog.jpg" style="width:35px;height:35px" /></a>
-</p>
+        <h2><a class="post-link" href="{{ page.url | remove: "/" }}">{{ page.title }}</a></h2>
+        <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }} /
+            {% for tag in page.tags %}
+
+                <a href="{{ "tag_" | append: tag | append: ".html"}}">{{tag}}</a>{% unless forloop.last %}, {% endunless%}
+
+                {% endfor %}</span>
+        <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ page.content | truncatewords: 50 | strip_html }} {% endif %}</p>
+
+        {% endif %}
+        {% endfor %}
+
+        <!--<p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>-->
+        <hr />
+        <!--<p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>-->
+
+    </div>
+</div>
+
 
 
 
