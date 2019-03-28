@@ -1,15 +1,13 @@
 ---
-title: All Contents
+title: 분류 전체보기
 sidebar: category_sidebar
 permalink: index.html
 keywords: meteopark, 박유성기술블로그, meteopark tech blog
-summary: All Contents
 toc: false
 ---
 
 
 <div class="home">
-    <p>See more posts from the <a class="view-list" href="archive.html">Archive</a> </p>
     <div class="post-list">
 
         {% for page in site.pages reversed %}

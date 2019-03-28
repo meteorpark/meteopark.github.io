@@ -14,8 +14,7 @@ date: 2018-03-28 00:00:00
 개발을 좋아하지만<br>맛집투어와 여행을 더 좋아합니다.<br><br>
 블로그 꾸미기를 좋아하지만<br>글은 잘 못씁니다.
 </p>
-<br>
-
+<p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
 ## 소개
 <hr />
 - 이름 : 박유성<br>

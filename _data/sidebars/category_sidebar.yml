@@ -45,9 +45,20 @@ entries:
 #      output: web, pdf
 
 
+  - title: Introduction
+    output: web, pdf
+    folderitems:
+
+    - title: 분류 전체보기
+      url: /index.html
+      output: web, pdf
+
+    - title: About
+      url: /about.html
+      output: web, pdf
 
 
-  - title: 프로그래밍
+  - title: Programming
     output: web, pdf
     folderitems:
 
@@ -55,7 +66,9 @@ entries:
       url: /programming-laravel.html
       output: web, pdf
 
-    - title: React JS
+    - title: ReactJS
       url: /programming-reactjs.html
       output: web, pdf
-
+/archive:
+  html:/archive:
+  html:

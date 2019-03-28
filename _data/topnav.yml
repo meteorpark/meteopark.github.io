@@ -3,10 +3,12 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/meteopark
     - title: About
       url: /about.html
+    - title: GitHub
+      external_url: https://github.com/meteopark
+    - title: RSS
+      url: /feed.xml
 #
 ##Topnav dropdowns
 #topnav_dropdowns:

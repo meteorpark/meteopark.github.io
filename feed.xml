@@ -16,7 +16,12 @@ layout: none
         {% for post in site.pages limit:10 %}
 
 
-            {% if post.url != "/feed.xml" and post.url != "/404.html" %}
+            {% if
+                    post.url != "/feed.xml" and
+                    post.url != "/404.html" and
+                    post.url != "/archive.html" and
+                    post.url != "/index.html"
+            %}
 
         <item>
             <title>{{ post.title | xml_escape }}</title>
