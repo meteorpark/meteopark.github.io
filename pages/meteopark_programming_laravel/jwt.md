@@ -2,7 +2,7 @@
 title: Laravel 5 - JWT 1.0.* 사용하기
 permalink: jwt.html
 tags: [laravel, jwt]
-keywords: jwt1.0.*
+keywords: laravel, jwt, jwt1.0.*
 date: 2019-03-20 00:00:00
 summary: 해당 가이드는 Laravel 5.8 및 JWT 1.0.* 기준으로 작성되었습니다.
 box_number: 1

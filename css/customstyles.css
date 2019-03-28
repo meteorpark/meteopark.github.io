@@ -924,10 +924,6 @@ span.soft {
     padding:10px;
 }
 
-.mp-icon {
-    width: 40px;
-    height: 40px;
-}
 /* this part adds an icon after external links, using FontAwesome*/
 /*a[href^="http://"]:after, a[href^="https://"]:after {*/
     /*content: "\f08e";*/

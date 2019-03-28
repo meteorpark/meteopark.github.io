@@ -13,7 +13,11 @@ layout: none
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
-        {% for post in site.posts limit:10 %}
+        {% for post in site.pages limit:10 %}
+
+
+            {% if post.url != "/feed.xml" and post.url != "/404.html" %}
+
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <description>{{ post.content | xml_escape }}</description>
@@ -27,6 +31,9 @@ layout: none
             <category>{{ cat | xml_escape }}</category>
             {% endfor %}
         </item>
+
+            {% endif %}
+
         {% endfor %}
     </channel>
 </rss>
