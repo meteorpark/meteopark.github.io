@@ -17,7 +17,7 @@ date: 2018-03-28 00:00:00
 <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
 ## 소개
 <hr />
-- 이름 : 박유성<br>
+- Name : 박유성<br>
 - Email : <a href="mailto:yspark@meteopark.dev">yspark@meteopark.dev</a>
 - GitHub : [https://github.com/meteopark](https://github.com/meteopark)
 - Linkedin : [https://www.linkedin.com/in/meteopark](https://www.linkedin.com/in/meteopark)
