@@ -7,6 +7,7 @@ date: 2019-03-27 00:00:00
 summary: React.js 1일차로 배운 내용을 정리한다.
 folder: meteopark_programming_reactjs
 sidebar: category_sidebar
+search: exclude
 ---
 ## React 소개
 React는 UI 컴포넌트 라이브러리이다.<br>
@@ -119,3 +120,6 @@ class Counter extends React.Component {
     );
   }
 ```
+
+
+{% include links_detail.html %}

@@ -7,6 +7,7 @@ date: 2019-03-07 00:00:00
 summary: 사용자의 응답정보(response)를 개발자의 스타일에 맞춰 변형시키는 방법으로 앱 개발자들이 API룰 호출하게 되면 그 결과를 응답정보로 보내어 상황에 맞게 결과값을 파싱할 수 있도록 도와주는 코드 입니다.
 folder: meteopark_programming_laravel
 sidebar: category_sidebar
+search: exclude
 ---
 ## ServiceProvider 생성 
 
@@ -189,4 +190,5 @@ or
 - [목록으로 돌아가기](https://github.com/meteopark/laravel-core)
 - [사용자 정의 예외처리 만들기 - Custom Exception](https://github.com/meteopark/laravel-core/blob/master/guide/response-custom-exception.md)
 
-{% include links.html %}
+{% include links_detail.html %}
+

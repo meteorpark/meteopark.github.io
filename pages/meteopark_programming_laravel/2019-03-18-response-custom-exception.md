@@ -7,6 +7,7 @@ date: 2019-03-18 00:00:00
 summary: 요청받은 정보에 이슈가 생겼을 시 예외 발생을 Custom 하게 변경시켜주는 코드입니다.
 folder: meteopark_programming_laravel
 sidebar: category_sidebar
+search: exclude
 ---
 
 ## Exception 생성 
@@ -167,4 +168,4 @@ Route::get('/', function () {
 - [목록으로 돌아가기](https://github.com/meteopark/laravel-core)
 - [사용자 정의 응답정보 만들기 - Response Macro](https://github.com/meteopark/laravel-core/blob/master/guide/response-macros.md)
 
-{% include links.html %}
+{% include links_detail.html %}
