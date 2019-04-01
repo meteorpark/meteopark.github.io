@@ -9,7 +9,7 @@ folder: meteopark_programming_reactjs
 sidebar: category_sidebar
 search: exclude
 ---
-export에는 default export 및 named export 2가지 방법이 있다.
+export에는 default export 와 named export 2가지 방법이 있다.
 
 ## named export
 정의된(const) 이름으로 사용해야 하며, 하나의 js파일에서 여러 개의 값을 export 시킬 수 있다.
