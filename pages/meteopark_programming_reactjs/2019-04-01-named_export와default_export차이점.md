@@ -3,7 +3,7 @@ title: ReactJS - named export 와 default export 차이점
 permalink: 2019-04-01-named_export와default_export.html
 tags: [reactjs, es6]
 keywords: reactjs, es6
-date: 2019-03-27 00:00:00
+date: 2019-04-01 00:00:00
 summary: export에는 default export 및 named export 의 차이점에 대해 알아본다.
 folder: meteopark_programming_reactjs
 sidebar: category_sidebar
