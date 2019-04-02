@@ -47,6 +47,9 @@ import A from './A'
 import MyA from './A'
 import Something from './A'
 ```
+named exports를 import 하는 경우는 {] 사용하고 동일한 이름으로 import 해야 한다.
+
+default exports를 import하는 경우는 {} 없이 사용 가능하고 또한 이름을 바꿀수도 있다.
 
 출처 : https://stackoverflow.com/questions/36795819/when-should-i-use-curly-braces-for-es6-import/36796281#36796281
 
