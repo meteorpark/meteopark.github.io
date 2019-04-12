@@ -1,5 +1,5 @@
 ---
-title:  어서와! 라라벨은 처음이지?
+title: Laravel - 어서와! 라라벨은 처음이지?
 permalink: 2019-04-12-welcome-to-laravel.html
 tags: [laravel, php, welcome]
 keywords: laravel, php, welcome
