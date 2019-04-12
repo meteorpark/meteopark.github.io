@@ -29,7 +29,7 @@ search: exclude
 ## 도커 ( Docker )
 ### 도움 되는 글
 - [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
->> [알파인 리눅스(Alpine Linux)](https://www.lesstif.com/pages/viewpage.action?pageId=35356819)
+- [알파인 리눅스(Alpine Linux)](https://www.lesstif.com/pages/viewpage.action?pageId=35356819)
 
 
 
