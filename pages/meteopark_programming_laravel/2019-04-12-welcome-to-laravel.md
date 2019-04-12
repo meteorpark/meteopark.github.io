@@ -14,7 +14,7 @@ search: exclude
 ## 개발툴을 사용하자
 ### PHPStorm
 - [PHPStorm 결제](https://www.jetbrains.com/phpstorm/)
-- 학생할인을 받으면 싸다는 얘기가 있는데 작성자는 잘 모르겠음.
+
 ### PHPStorm 의 고수가 되자
 - [사용법에 관한 영상](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 
