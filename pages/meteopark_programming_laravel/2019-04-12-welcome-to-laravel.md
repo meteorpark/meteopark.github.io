@@ -12,10 +12,10 @@ search: exclude
 
 
 ## 개발툴을 사용하자
-<b>PHPStorm</b>
+PHPStorm
 - [PHPStorm 결제](https://www.jetbrains.com/phpstorm/)
 
-<b>PHPStorm 의 고수가 되자</b>
+PHPStorm 의 고수가 되자
 - [사용법에 관한 영상](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 
 
@@ -27,9 +27,10 @@ search: exclude
 
 
 ## 도커 ( Docker )
-<b>도움 되는 글</b>
+도움 되는 글
 - [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
 - [알파인 리눅스(Alpine Linux)](https://www.lesstif.com/pages/viewpage.action?pageId=35356819)
+
 
 
 
