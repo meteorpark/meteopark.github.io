@@ -1,7 +1,7 @@
 ---
 title:  어서와! 라라벨은 처음이지?
 permalink: 2019-04-12-welcome-to-laravel.html
-tags: [laravel]
+tags: [laravel, php, welcome]
 keywords: laravel, php, welcome
 date: 2019-04-12 00:00:00
 summary: 라라벨을 입문하였다면 이것만은 확인하자!!
