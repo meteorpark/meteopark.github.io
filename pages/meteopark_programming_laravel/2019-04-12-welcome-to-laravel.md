@@ -12,27 +12,24 @@ search: exclude
 
 
 ## 개발툴을 사용하자
-
 ### PHPStorm
-> PHPStorm 결제 : https://www.jetbrains.com/phpstorm/
-> 학생할인을 받으면 싸다는 얘기가 있는데 작성자는 잘 모르겠음.
+- [PHPStorm 결제](https://www.jetbrains.com/phpstorm/)
+- 학생할인을 받으면 싸다는 얘기가 있는데 작성자는 잘 모르겠음.
+### PHPStorm 의 고수가 되자
+- [사용법에 관한 영상](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 
-## PHPStorm 의 고수가 되자
->> https://laracasts.com/series/how-to-be-awesome-in-phpstorm
 
 ## 라라벨 ( Laravel ) 입문하기
-### 라라벨 한국어 메뉴얼을 익히자 : https://laravel.kr/docs/5.8
-## 라라벨을 설치하였다면 발렛은 필수 : https://laravel.kr/docs/5.8/valet
-## 컴포저를 빠르게 해보자 : https://github.com/hirak/prestissimo
-## 라라캐스트를 보자 : https://laracasts.com/series?curated
+- [라라벨 한국어 메뉴얼을 익히자](https://laravel.kr/docs/5.8)
+- [라라벨을 설치하였다면 발렛은 필수](https://laravel.kr/docs/5.8/valet)
+- [컴포저를 빠르게 해보자](https://github.com/hirak/prestissimo)
+- [라라캐스트를 보자](https://laracasts.com/series?curated)
 
 
 ## 도커 ( Docker )
-> 도움 되는 글
->> 도커를 이용한 웹서비스 무중단 배포하기
->>> https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html
->> 알파인 리눅스(Alpine Linux)
->>> https://www.lesstif.com/pages/viewpage.action?pageId=35356819
+### 도움 되는 글
+- [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
+>> [알파인 리눅스(Alpine Linux)](https://www.lesstif.com/pages/viewpage.action?pageId=35356819)
 
 
 
