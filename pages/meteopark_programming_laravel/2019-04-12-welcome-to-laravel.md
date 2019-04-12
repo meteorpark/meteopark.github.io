@@ -22,7 +22,7 @@ search: exclude
 ## 라라벨 ( Laravel ) 입문하기
 - [라라벨 한국어 메뉴얼을 익히자](https://laravel.kr/docs/5.8)
 - [라라벨을 설치하였다면 발렛은 필수](https://laravel.kr/docs/5.8/valet)
-- [컴포저를 빠르게 해보자](https://github.com/hirak/prestissimo)
+- [컴포저를 빠르게 해보자](https://packagist.kr/)
 - [라라캐스트를 보자](https://laracasts.com/series?curated)
 
 
