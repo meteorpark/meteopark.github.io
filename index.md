@@ -1,10 +1,10 @@
 ---
-title: 분류 전체보기
+title: Meteopark Tech Blog
 sidebar: category_sidebar
 permalink: index.html
 keywords: meteopark, 박유성기술블로그, meteopark tech blog
 tags:
-summary: 분류 전체보기
+summary: Meteopark Tech Blog
 toc: false
 date: 2018-03-29 00:00:00
 ---
