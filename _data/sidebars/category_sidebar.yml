@@ -70,6 +70,10 @@ entries:
       url: /programming-reactjs.html
       output: web, pdf
 
+    - title: Spring
+      url: /programming-spring.html
+      output: web, pdf
+
 
 
 /archive:

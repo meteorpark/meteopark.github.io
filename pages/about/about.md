@@ -50,6 +50,10 @@ date: 2018-03-28 00:00:00
     - 소개 : -
     - 기술 : Laravel, ReactJS, Apollo, Graphql
 
+- Project B
+    - 소개 : OpenAPI를 활용한 공모전 참여 중
+    - 기술 : Laravel5, ReactJS
+
 
 <br><br>
 <hr />
