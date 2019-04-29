@@ -190,6 +190,5 @@ or
 - [목록으로 돌아가기](https://github.com/meteopark/laravel-core)
 - [사용자 정의 예외처리 만들기 - Custom Exception](https://github.com/meteopark/laravel-core/blob/master/guide/response-custom-exception.md)
 
-{% include google_ad_horizontal.html %}
 {% include links_detail.html %}
 
