@@ -43,9 +43,6 @@
             {% endif %}
             {% endfor %}
         </ul>
-        <ul>
-            <img src="https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png" width="225" height="850"/>
-        </ul>
     </li>
 
     {% endif %}
@@ -56,6 +53,7 @@
            <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
        </p>
       -->
+        <li>{% include google_ad_menu.html %}</li>
 </ul>
 
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
