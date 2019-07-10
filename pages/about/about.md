@@ -38,7 +38,6 @@ date: 2018-03-28 00:00:00
         - 웨스트서버 z-zOne클랜 (18기 웹마스터)
         - < itv 고수를 이겨라 > 방송 출연 (4강 진출)
         - 기타 게임방 대회 다수 참가
-    - 클래시오브로얄 클랜 리더 (트로피 4850)
 
 <hr />
 - Name : 박유성
@@ -72,16 +71,31 @@ date: 2018-03-28 00:00:00
 <hr />
 
 
-## 프로젝트 ( 업데이트 중 )
+## 토이 프로젝트
 <hr />
-- Toy Project A
-    - 소개 : -
-    - 기술 : Laravel, ReactJS, Apollo, Graphql
 
-- Toy Project B
-    - 소개 : -
-    - 기술 : Laravel5, ReactJS
+- 시골짝꿍
+    - 소개 : 귀농을 희망하는 멘티와 해당 분야의 전문가인 멘토를 이어주는 서비스
+    - Web : https://countryside-partner.meteopark.dev
+    - GooglePlay : https://play.google.com/store/apps/details?id=com.kr.countrysidepartner
+    - 기술
+        - Backend ( PHP 7.2 + Laravel 5.8 + Nginx + PHP-FPM + MySQL + NCloud )
+        - Frontend ( reactjs + react-bootstrap + redux + axios + hook )
 
+    - Git
+        - 프론트 : https://github.com/meteopark/countryside-partner-reactjs
+        - 백엔드 : https://github.com/meteopark/countryside-partner-laravel
+        - 안드로이드 : https://github.com/meteopark/countryside-partner-android
+    - 개발후기
+
+        - 농림축산식품부에서 주관하는 공모전을 목표로 약 3개월 동안 단독으로 서비스를 개발 했습니다.
+        - 백엔드(라라벨) : 최대한 공식문서에 나와있는 스펙들을 적극 활용하기 위해 노력했습니다. 배포의 같은 경우 Laravel Envoy를 활용 하게 되면서 CI/CD에 관심을 갖기 시작 했습니다.
+        - 프론트(리액트) : 프로젝트 시작 전 주말동안 재직자 교육으로 배운 리액트 강의가 큰 도움이 되었습니다. 개발 간 메모리 누수 같은 이슈들이 있는 발생되었는데 이것으로 인해 리액트의 라이프사이클에 대한 이해가 가장 기본적이면서 중요하다는 것을 느꼈습니다.
+
+    - 추후개발 사항
+        - beanstalk 혹은 jenkins 를 통한 서비스 배포를 스터디.
+        - 구현된 항목을 GraphQL로 변경시키는 작업을 진행.
+        - Redux로 개발 된 부분을 Mobx로 구현해봄으로서 둘 간의 장단점에 대해 분석예정.
 
 <hr />
 
