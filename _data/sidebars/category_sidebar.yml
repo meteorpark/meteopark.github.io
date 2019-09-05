@@ -62,6 +62,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Basic
+      url: /programming-basic.html
+      output: web, pdf
+
     - title: Laravel
       url: /programming-laravel.html
       output: web, pdf
